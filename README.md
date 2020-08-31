@@ -12,4 +12,4 @@ Simple lockdown project using python
 
 ## Note:
 * caliberation.py is a handbuilt python module
-* You need to execute only virtual ink.py
+* You need to execute only "virtual ink.py"
